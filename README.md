@@ -1,5 +1,6 @@
 # entityDiscord
 A FiveM resource that utilizes Discord's API
+
 ![](https://img.shields.io/github/downloads/itsEntity/entityDiscord/total?logo=github)
 ![](https://img.shields.io/github/downloads/itsEntity/entityDiscord/latest/total?logo=github)
 ![](https://img.shields.io/github/contributors/itsEntity/entityDiscord?logo=github)
